@@ -8,7 +8,7 @@ import Form from "./components/form.vue";
     <h1
       class="text-white text-2xl font-bold text-center pt-5 md:pt-10 md:text-3xl"
     >
-      Pendaftaran Ketua HIMATIF
+      Pendaftaran Calon Ketua HIMATIF
     </h1>
     <Form />
   </div>
